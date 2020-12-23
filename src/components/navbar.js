@@ -27,15 +27,16 @@ const Navbar = () => {
                     <nav className='menubar'>
                         <ul>
                             <li className='d-flex'>
+                            <Link to="/reactCricketWebiste">Home </Link>
                                 {
                                     getLogin?.username === "admin@admin.com" ? (
-                                        <> <Link to="/teamsList">Teams list</Link>
-                                            <Link to="/usersList">Users list</Link>
-                                            <Link to="/playersList">Players list</Link>
+                                        <> <Link to="/reactCricketWebiste/teamsList">Teams list</Link>
+                                            <Link to="/reactCricketWebiste/usersList">Users list</Link>
+                                            <Link to="/reactCricketWebiste/playersList">Players list</Link>
                                         </>
-                                    ) : (<><Link to="/">Home </Link>
-                                        <Link to="/team">Teams</Link>
-                                        <Link to="/players">Players</Link></>)
+                                    ) : (<>
+                                        <Link to="/reactCricketWebiste/team">Teams</Link>
+                                        <Link to="/reactCricketWebiste/players">Players</Link></>)
                                 }
 
                                 {

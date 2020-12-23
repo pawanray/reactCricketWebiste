@@ -27,12 +27,12 @@ function App(props) {
       <Container fluid>
         <Navbar />
           <Switch>
-            <Route exact path="/team" component={Team}/>
-            <Route exact path="/players" component={Players}/>
-            <Route exact path="/usersList" component={UsersList} />
-            <Route exact path="/playersList" component={PlayersList} exact/>
-            <Route exact path="/teamsList" component={TeamsList} exact/>
-            <Route exact path="/" component={Home} exact/>
+            <Route exact path="/reactCricketWebiste/team" component={Team}/>
+            <Route exact path="/reactCricketWebiste/players" component={Players}/>
+            <Route exact path="/reactCricketWebiste/usersList" component={UsersList} />
+            <Route exact path="/reactCricketWebiste/playersList" component={PlayersList} exact/>
+            <Route exact path="/reactCricketWebiste/teamsList" component={TeamsList} exact/>
+            <Route exact path="/reactCricketWebiste" component={Home} exact/>
           </Switch>
         <Footer />
         {modalInfo.type === "Login" ? <LoginComponent modalInfo={modalInfo} /> : null}

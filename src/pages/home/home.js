@@ -79,7 +79,7 @@ const Home = () => {
                 </Row>
                 <Row className="mt-4">
                     {
-                        cricketNews.length ? cricketNews.map(data => {
+                        cricketNews ? cricketNews.map(data => {
                            return <Col sm={3}><NewsCard news={data} /></Col>
                         }) : null
                     }

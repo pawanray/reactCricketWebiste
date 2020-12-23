@@ -1,31 +1,26 @@
-import NewsImg1 from '../../assets/img/news1.webp';
-import NewsImg2 from '../../assets/img/news2.webp';
-import NewsImg3 from '../../assets/img/news3.webp';
-import NewsImg4 from '../../assets/img/news4.webp';
-
 export const NewsData = [
     {
       author: 'Sportskeeda',
-      imgUrl: NewsImg1,
-      title: "IND V AUS 2020: ‘Starc dismissed Sehwag, Sachin, Lara in one ball’ - Twitterati troll Ravi Shastri after Prithvi Shaw dismissal at Adelaide",
+      imgUrl: 'https://media.zenfs.com/en-us/the_quint_389/bfdaeb9035f9492398cdea27c234d4f3',
+      title: "Tax Exemptions for ICC, New Teams in IPL on BCCI AGM Agenda",
       date: new Date()
     },
     {
       author: 'News18',
-      imgUrl: NewsImg2,
-      title: "DUB vs AJM Dream11 Predictions, Emirates D20, Dubai Pulse Secure vs Ajman Alubond: Playing XI, Cricket Fantasy Tips",
+      imgUrl: 'https://cricket.yahoo.net/static-assets/waf-images/a2/d4/06/16-9//592-444/9de3d873c3f991621852e9b3b7dfac9f.jpeg',
+      title: "New Zealand vs Pakistan: Shadab Khan Ruled Out Of 1st Test Due To Thigh Injury",
       date: new Date()
     },
     {
       author: 'Sportskeeda',
-      imgUrl: NewsImg3,
-      title: "ECB vs FUJ Dream11 Predictions, Emirates D20, ECB Blues vs Fujairah Pacific Ventures: Playing XI, Cricket Fantasy Tips",
+      imgUrl: 'https://cricket.yahoo.net/static-assets/waf-images/e5/47/f0/16-9/592-444/5fe2e6b9eea7b60001dd8c0b_1920x1080_FES_v1.jpg',
+      title: "India vs Australia: David Warner, Sean Abbott ruled out of second Test against India in Melbourne",
       date: new Date()
     },
     {
       author: 'News18',
-      imgUrl: NewsImg4,
-      title: "SHA vs FUJ Dream11 Predictions, Emirates D20 2020, Sharjah vs Fujairah: Playing XI, Cricket Fantasy Tips",
+      imgUrl: 'https://cricket.yahoo.net/static-assets/waf-images/7c/4f/bc/16-9/592-444/5fe1f4c93b6d0e20a85378bc_o_U_v2.jpg',
+      title: "India vs Australia: Gautam Gambhir suggests several changes in India's XI for MCG Test",
       date: new Date()
     }
   ]
