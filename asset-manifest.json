@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactCricketWebiste/static/css/main.825927c8.chunk.css",
+    "main.js": "/reactCricketWebiste/static/js/main.1c6a7246.chunk.js",
+    "main.js.map": "/reactCricketWebiste/static/js/main.1c6a7246.chunk.js.map",
+    "runtime-main.js": "/reactCricketWebiste/static/js/runtime-main.a04fcd7e.js",
+    "runtime-main.js.map": "/reactCricketWebiste/static/js/runtime-main.a04fcd7e.js.map",
+    "static/js/2.ccac3c74.chunk.js": "/reactCricketWebiste/static/js/2.ccac3c74.chunk.js",
+    "static/js/2.ccac3c74.chunk.js.map": "/reactCricketWebiste/static/js/2.ccac3c74.chunk.js.map",
+    "index.html": "/reactCricketWebiste/index.html",
+    "precache-manifest.07c2c59d59a00efbb853bf0977c86cf9.js": "/reactCricketWebiste/precache-manifest.07c2c59d59a00efbb853bf0977c86cf9.js",
+    "service-worker.js": "/reactCricketWebiste/service-worker.js",
+    "static/css/main.825927c8.chunk.css.map": "/reactCricketWebiste/static/css/main.825927c8.chunk.css.map",
+    "static/js/2.ccac3c74.chunk.js.LICENSE.txt": "/reactCricketWebiste/static/js/2.ccac3c74.chunk.js.LICENSE.txt",
+    "static/media/cicket1.webp": "/reactCricketWebiste/static/media/cicket1.80c55545.webp",
+    "static/media/cicket2.webp": "/reactCricketWebiste/static/media/cicket2.ea87040a.webp",
+    "static/media/news1.webp": "/reactCricketWebiste/static/media/news1.b91eacbb.webp",
+    "static/media/news2.webp": "/reactCricketWebiste/static/media/news2.c9be3d67.webp",
+    "static/media/news3.webp": "/reactCricketWebiste/static/media/news3.a970da66.webp",
+    "static/media/news4.webp": "/reactCricketWebiste/static/media/news4.e16817a2.webp",
+    "static/media/teamLogo.webp": "/reactCricketWebiste/static/media/teamLogo.a28776cc.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a04fcd7e.js",
+    "static/js/2.ccac3c74.chunk.js",
+    "static/css/main.825927c8.chunk.css",
+    "static/js/main.1c6a7246.chunk.js"
+  ]
+}
